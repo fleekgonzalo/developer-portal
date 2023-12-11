@@ -21,7 +21,7 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a static web
 ### Installation
 
 ```
-$ yarn
+$ yarn && ls
 ```
 
 ### Local Development
